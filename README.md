@@ -1,4 +1,4 @@
-Hi , I'm **Heba Fahmy** a Junior Frontend developer and a fresh graduate from Faculty of Computers and Artificial Intelligence - Cairo University
+Hi , I'm **Heba Fahmy** a Frontend developer and a fresh graduate from Faculty of Computers and Artificial Intelligence - Cairo University
 - 🌱 I’m currently learning .NET Core
 - 📫 How to reach me: [hebafahmyff@gmail.com]
 <!--
